@@ -1,0 +1,26 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_421B49C0_4EC0_D037_41A6_59E3DAA3EA37.label = PXL_20231129_104431341.PHOTOSPHERE
+panorama_427C40AC_4EC1_504F_4196_1D47B3EF5312.label = PXL_20231130_151130175.PHOTOSPHERE
+panorama_45B8AC00_4EC1_5037_41C1_FE8C57920E64.label = PXL_20240127_155029594.PHOTOSPHERE
+
+## Popup
+
+### Body
+htmlText_5FC4A2C1_4EC1_D039_41AD_B81348D3824B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Kantin lantai 5 gedung E</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Universitas Muhammadiyah Palangkaraya</B></SPAN></DIV></BODY></HTML></div>
+htmlText_5FB645F9_4EC1_D3C9_4183_1A5FFC9D4F7E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Menuju Kantin lantai 5 gedung E</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Universitas Muhammadiyah Palangkaraya</B></SPAN></DIV></BODY></HTML></div>
+htmlText_5C80C520_4EC1_5077_41C4_CF9CEAE27058.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Menuju Parkiran Mobil </B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Universitas Muhammadiyah Palangkaraya</B></SPAN></DIV></BODY></HTML></div>
+htmlText_411221ED_4EC3_33C9_41A9_6CC0A15325E7.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Menuju Parkiran Motor </B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Universitas Muhammadiyh Palangkaraya</B></SPAN></DIV></BODY></HTML></div>
+htmlText_5CAB816A_4EC1_30CB_41B3_7855E74842E5.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Menuju Parkiran Motor </B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Universitas Muhmmadiyah Palangkaraya</B></SPAN></DIV></BODY></HTML></div>
+htmlText_5FED23F9_4EC3_37C8_41C0_4DFAED5E8DBA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Parkiran Mobil </B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Universitas Muhammadiyah Palangkaraya</B></SPAN></DIV></BODY></HTML></div>
+htmlText_5DC18D84_4EC0_D03F_41C4_04D470EFE47C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Parkiran Motor </B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Universitas Muhammadiyah Palangkaraya</B></SPAN></DIV></BODY></HTML></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 5

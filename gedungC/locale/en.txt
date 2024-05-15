@@ -1,0 +1,46 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_292465CE_26D1_0A4B_41BF_A1944CD7A1D3.text = Gedung C
+
+## Media
+
+### Image
+imlevel_34B62EE3_26D1_7679_41B2_13EAB679AE8B.url = media/panorama_2C100887_26D1_7AB9_41C0_DB13D4B76B30_HS_t14itg05_en.png
+
+### Title
+panorama_2A7CD293_26D1_0ED9_41B2_DC80488D7213.label = PXL_20231121_141357969.PHOTOSPHERE
+panorama_2C141DB5_26D1_1ADE_41C0_396B7B6D443B.label = PXL_20231206_110236129.PHOTOSPHERE
+panorama_2C113864_26D1_3A7F_417D_6B6286D7692F.label = PXL_20231216_123615261.PHOTOSPHERE
+panorama_2C114366_26D1_0E7A_41AD_FCAB11DA420F.label = PXL_20231216_123826832.PHOTOSPHERE
+panorama_2C107E43_26D1_19B9_41B4_66F070A3D02E.label = PXL_20231216_124524552.PHOTOSPHERE
+panorama_2C100887_26D1_7AB9_41C0_DB13D4B76B30.label = PXL_20231217_162434421.PHOTOSPHERE
+panorama_2C10233A_26D1_0FCB_41AC_399875E8AC4B.label = PXL_20231217_163140353.PHOTOSPHERE
+panorama_2C100D94_26D1_1ADF_4190_B99E19FA3522.label = PXL_20231217_163524121.PHOTOSPHERE
+panorama_2C1007C7_26D1_36B9_41C2_29255CD20690.label = PXL_20231217_163733425.PHOTOSPHERE
+
+## Popup
+
+### Body
+htmlText_34D506A6_26DF_76FB_41B9_0CE0ED3EC1DC.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>PERPUSTAKAAN UMUM</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>UNIVERSITAS MUHAMMADIYAH PALANGKARAYA</B></SPAN></DIV></BODY></HTML></div>
+htmlText_37B9F6A5_26D1_16F9_418A_C895DCAE7117.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">RUANG C.1.01</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>R. PEMESANAN ALAT/BAHAN PRAKTIKUM</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>R. LABORATORIUM INSTRUMENT</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">FAKULTAS ILMU KESEHATAN</SPAN></DIV></BODY></HTML></div>
+htmlText_36375B13_26F7_1FD9_41BB_E29B22B88EAE.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">RUANG C.1.02</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>LABORATORIUM BIOLOGI DAN SITOHISTOTEKNOLOGI</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">FAKULTAS ILMU KESEHATAN</SPAN></DIV></BODY></HTML></div>
+htmlText_3639B65B_26FF_1649_41C0_BE2BAE67CD35.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">RUANG C.1.03</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>LABORATORIUM MIPA</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">FAKULTAS ILMU KESEHATAN</SPAN></DIV></BODY></HTML></div>
+htmlText_375DBE11_26F3_F9D9_41B0_45FD40764A71.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">RUANG C.2.02</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>TATA USAHA DAN RUANG DEKAN FAKULTAS ILMU KESEHATAN</B></SPAN></DIV></BODY></HTML></div>
+htmlText_3710606E_26F7_0A4B_4194_188F4BBA2F63.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">RUANG C.2.03</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>KELAS FAKULTAS ILMU KESEHATAN</B></SPAN></DIV></BODY></HTML></div>
+htmlText_37C7B0A8_26D3_0AF7_41B2_DAE58A8DC038.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">RUANG C.3.02</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>PERPUSTAKAAN UMUM </B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>UNIVERSITAS MUHAMMADIYAH PALANGKARAYA</B></SPAN></DIV></BODY></HTML></div>
+htmlText_34897337_26D7_0FD9_4190_911385F5FFF5.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">RUANG DEKAN</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">FAKULTAS ILMU KESEHATAN</SPAN></DIV></BODY></HTML></div>
+htmlText_34591430_26D3_09D6_41B4_B4A0D1A6E459.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">RUANG TATA USAHA </SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">FAKULTAS ILMU KESEHATAN</SPAN></DIV></BODY></HTML></div>
+htmlText_379B64B0_26F1_0AD7_4191_7D13A64F248C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">tangga naik ke lantai 2 gedung C</SPAN></DIV></BODY></HTML></div>
+htmlText_3623B1FF_26F3_0A49_41B4_9CC7D6B7D43D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">tangga naik ke lantai 3 gedung C</SPAN></DIV></BODY></HTML></div>
+htmlText_34360E31_26F1_19D9_41A9_ED637DCB7906.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">tangga turun ke lantai 1 gedung C</SPAN></DIV></BODY></HTML></div>
+htmlText_374EC83E_26D1_19CB_4182_E0D7055D208B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">turun ke lantai 2 gedung C</SPAN></DIV></BODY></HTML></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
